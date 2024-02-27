@@ -27,3 +27,11 @@ If you would prefer a JavaScript template, please close the repository [here](ht
 ### Testing
 
 From the root folder, run `npm test`
+
+### Note
+
+If given more time, I would like to do the following:
+
+- The table doesn't match as how it's displaying in the requirement.If given time, I would like to display the table as how it's showing in the actual UI.
+- Adding more tests
+- Adding form field for `user first` and `last name` so that we don't have to hard code the headers when making API request.
