@@ -23,3 +23,7 @@ From the root folder, run `npm run dev` to run a local server with hot reloading
 ### JavaScript
 
 If you would prefer a JavaScript template, please close the repository [here](https://github.com/ruairidhflint/react-template).
+
+### Testing
+
+From the root folder, run `npm test`
