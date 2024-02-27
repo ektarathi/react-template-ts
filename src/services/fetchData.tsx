@@ -9,7 +9,6 @@ export const fetchData = () => {
       return res.json();
     })
     .catch((error) => {
-      console.log("dssfsd", error);
       if (typeof error === "string") {
         throw new Error(error);
       } else console.error(error);
